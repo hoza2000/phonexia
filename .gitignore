@@ -1,0 +1,4 @@
+*env
+Baseline_GMM_LFCC/data/
+Eval/keys/
+Eval/*.gz
