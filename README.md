@@ -1,4 +1,10 @@
-## Preparation
+## Data preparation
+- download data and keys from: https://1drv.ms/f/s!Ao8SOuS2wrlYip9lzlTJ3sKdDqwGlQ?e=wouTQK
+- unzip both folders
+- put folder data into Baseline_GMM_LFCC directory
+- put folder keys into Eval directory
+
+## Run preparation
 In both folders is requirements.txt file for pip to install all required python packages. Everything was tested on python version 7.
 
 ### Install packages for training and scoring model
